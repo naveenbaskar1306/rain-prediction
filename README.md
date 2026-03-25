@@ -49,6 +49,4 @@ python your_file_name.py
 * Improve dataset size
 
 ## 👨‍💻 Author
-  Naveen .B
-
-Your Name
+  Naveen.B
